@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/Pz5XSCG/1674821573055-4.png)](https://rishavchanda.io)
+[![MasterHead](https://i.ibb.co/bzZyzFq/header.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdur Rouf Likhon</h1>
 <h3 align="center">A passionate MERN Stack developer from Jahangirnagar University, Dhaka,Bangladesh</h3>
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:828/0*7Q3yvSIv_t0ioJ-Z.gif">
