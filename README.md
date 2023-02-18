@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/Pz5XSCG/1674821573055-4.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdur Rouf Likhon</h1>
-<h3 align="center">A passionate MERN Stack developer from Dhaka,Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
+<h3 align="center">A passionate MERN Stack developer from Jahangirnagar University, Dhaka,Bangladesh</h3>
+<img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:828/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhon29&label=Profile%20views&color=0e75b6&style=flat" alt="likhon29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likhon29" alt="likhon29" /></a> </p>
