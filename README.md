@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **JU-Cafeteria**
 
-- 🌱 I’m currently learning **React Native, TypeScript, Redux**
+- 🌱 I’m currently learning **NextJS, React Native, TypeScript, Redux**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-b28f8.web.app/](https://my-portfolio-b28f8.web.app/)
 
