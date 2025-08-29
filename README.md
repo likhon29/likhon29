@@ -1,36 +1,161 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Abdur Rouf Likhon</h1>
-<h3 align="center">A passionate MERN Stack developer from Jahangirnagar University, Dhaka,Bangladesh</h3>
-<img align="right" alt="Coding" width="250" src="https://miro.medium.com/v2/resize:fit:828/0*7Q3yvSIv_t0ioJ-Z.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=likhon29&label=Profile%20views&color=0e75b6&style=flat" alt="likhon29" /> </p>
+# 🚀 Abdur Rouf Likhon
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likhon29" alt="likhon29" /></a> </p> -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Wizard+%E2%9A%A1;Building+for+2M%2B+Users+%F0%9F%9A%80;MERN+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
 
-- 🔭 I’m currently working on **JU-Cafeteria**
-
-- 🌱 I’m currently learning **NextJS, React Native, TypeScript, Redux**
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-b28f8.web.app/](https://my-portfolio-b28f8.web.app/)
-
-- 💬 Ask me about **MERN , React Native (Android)**
-
-- 📫 How to reach me **mdabdurrouf.likhon@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pHVjH_ktwdzL6mrzWcRIuSr1ZMjiIu-v/view?usp=sharing](https://drive.google.com/file/d/1pHVjH_ktwdzL6mrzWcRIuSr1ZMjiIu-v/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am passionate about learning and development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-abdur-rouf-likhon-70a562257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-abdur-rouf-likhon-70a562257" height="30" width="40" /></a>
-<a href="https://fb.com/abdurrouf.likhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdurrouf.likhon" height="30" width="40" /></a>
+<p>
+  <img src="https://img.shields.io/badge/🏢%20Currently%20at-Grameen%20Telecom%20Trust-00D9FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🎯%20Focus-Healthcare%20%26%20SaaS-FF6B6B?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/📍%20Based%20in-Dhaka,%20Bangladesh-4ECDC4?style=for-the-badge&labelColor=0D1117" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=likhon29&show_icons=true&locale=en&layout=compact" alt="likhon29" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likhon29&show_icons=true&locale=en" alt="likhon29" /></p>
+<img align="right" src="https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png" width="100" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=likhon29&" alt="likhon29" /></p>
+## 🎭 Who Am I?
+
+```javascript
+const likhon = {
+    role: "Software Engineer @ Gramteen Telecom Trust",
+    code: ["JavaScript", "TypeScript", "Python", "C++"],
+    askMeAbout: ["web dev", "mobile dev", "healthcare tech", "SaaS"],
+    technologies: {
+        frontend: ["React", "Next.js", "React Native"],
+        backend: ["Node.js", "Nest.js", "Express"],
+        databases: ["MongoDB", "PostgreSQL", "Redis"],
+        cloud: ["AWS", "Firebase"],
+        tools: ["Docker", "GitHub Actions", "Postman"]
+    },
+    currentlyWorking: "Building healthcare solutions for 2M+ users",
+    funFact: "I debug with console.log and I'm not ashamed! 😄"
+};
+```
+
+<br clear="right"/>
+
+## 🔥 What I'm Cooking
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 **Shukhee** 
+*2M+ Users Healthcare Platform*
+- 🎥 Video consultations (Agora WebRTC)  
+- 💊 Smart prescription system
+- 👨‍⚕️ Doctor-patient portal
+- 💳 Multi-payment gateway
+
+**Tech:** Next.js • React • TypeScript • Redux
+
+</td>
+<td width="50%">
+
+### 🚗 **Softcar**
+*Multi-tenant SaaS Platform*  
+- 🏢 Enterprise-grade architecture
+- 💰 Subscription management
+- ⚡ Real-time notifications  
+- 📊 Advanced analytics
+
+**Tech:** Nest.js • MongoDB • Stripe • AWS
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🏠 **Urgent UAE**
+*Property & Car Marketplace*
+- 🏘️ Buy/Sell/Rent properties
+- 🚙 Car marketplace  
+- 👨‍💼 Admin dashboard
+- 📊 Real-time analytics
+
+**Tech:** Nest.js • Next.js • AWS • Swagger
+
+</td>
+<td>
+
+### 📊 **Chinta Research**
+*Public Health Platform*
+- 📚 Research publications
+- 👥 Role-based access
+- 🔍 Advanced search
+- 📝 Content management  
+
+**Tech:** Node.js • React • MongoDB • Tailwind
+
+</td>
+</tr>
+</table>
+
+## 🛠️ My Arsenal
+
+<div align="center">
+
+### Frontend Magic ✨
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+
+### Backend Power ⚡
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+
+### DevOps & Tools 🔧
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
+
+</div>
+
+## 📈 GitHub Vibes
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=likhon29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=likhon29&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B" />
+</div>
+
+<div align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhon29&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+</div>
+
+## 🏆 Achievement Unlocked
+
+<div align="center">
+
+🚀 **2M+ Users Served** • 🏢 **Enterprise SaaS Built** • 🏥 **Healthcare Tech Pioneer** • ⚡ **Real-time Systems** • 💳 **Payment Integration Master**
+
+</div>
+
+## 💬 Let's Connect & Build Something Epic!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/md-abdur-rouf-likhon-70a562257)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20My%20Work-FF5722?style=for-the-badge&logo=firefox&logoColor=fff)](https://my-portfolio-b28f8.web.app/)
+[![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:mdabdurrouf.likhon@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Say%20Hi-1877F2?style=for-the-badge&logo=facebook&logoColor=fff)](https://fb.com/abdurrouf.likhon)
+
+<img src="https://komarev.com/ghpvc/?username=likhon29&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+**🚀 "Code is poetry, and I'm writing epics!" 🚀**
+</div>
